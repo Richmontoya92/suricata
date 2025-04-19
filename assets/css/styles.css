@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+}
+
+.customcolor{
+    background-color: #E83E8C;
+}
+
+header .color {
+    color: #ffffff;
+}
+
+nav{
+    padding: 0;
+}
+
+div .col-12 .col-md-6 .col-xl-4{
+    padding: 10rem 0 10rem;
+}
+
+.icons-section{
+    background-color:#17A2B8;
+}
+
+#titulon{
+    font-family: "Open Sans";
+    font-weight: 700;
+    padding-top: 30px;
+}
+
+.letra-pago{
+    font-family: "Open Sans";
+    font-weight: 700;
+}
+
+.card-titulo{
+    font-family: "Open Sans";
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.card-cuerpo{
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-size: 16px;
+}
+
+
+.card-otros{
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-size: 11px;
+}
